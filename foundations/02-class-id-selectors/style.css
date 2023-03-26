@@ -1,4 +1,14 @@
 .classic {
     background-color: #ffa07a;
     font-family: Verdana, DejaVu Sans, sans-serif;
+    font-size: 24px;
+}
+#any {
+    color: #0000ff;
+    font-size: 36px;
+}
+#anyone {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
 }
