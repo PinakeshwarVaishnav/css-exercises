@@ -1,0 +1,12 @@
+.game 
+.gamer {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.game {
+    background-color: black;
+    color: white;
+}
+.gamer {
+    background-color: yellow;
+}
